@@ -1,5 +1,5 @@
 variable "project_id" {
-  type = "string"
+  type = string
   default = "learning-terraform-512714"
 }
 
